@@ -1,0 +1,11 @@
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\bin\Debug\netcoreapp2.1\BigONotationPartial.deps.json
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\bin\Debug\netcoreapp2.1\BigONotationPartial.runtimeconfig.json
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\bin\Debug\netcoreapp2.1\BigONotationPartial.runtimeconfig.dev.json
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\bin\Debug\netcoreapp2.1\BigONotationPartial.dll
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\bin\Debug\netcoreapp2.1\BigONotationPartial.pdb
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\obj\Debug\netcoreapp2.1\BigONotationPartial.csproj.CoreCompileInputs.cache
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\obj\Debug\netcoreapp2.1\BigONotationPartial.AssemblyInfoInputs.cache
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\obj\Debug\netcoreapp2.1\BigONotationPartial.AssemblyInfo.cs
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\obj\Debug\netcoreapp2.1\BigONotationPartial.dll
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\obj\Debug\netcoreapp2.1\BigONotationPartial.pdb
+C:\Users\DRAGO\Documents\Visual Studio 2017\Projects\AmbienteDesarrolloSW\BigONotationPartial\obj\Debug\netcoreapp2.1\BigONotationPartial.csprojAssemblyReference.cache
