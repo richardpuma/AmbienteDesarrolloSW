@@ -29,20 +29,20 @@ namespace BigONotationPartial
             {
                 throw new Exception("n can not be less than zero");
             }
-            Int32 a = 0,b=1,aux=0;
+            Int32 aux1 = 0, aux2 = 1,aux3=0;
 
             for (int i = 0; i <= n; i++)
             {
                 if (i == 0)
                 {
-                    Console.WriteLine("Valor {0} = {1}", i, a);
+                    Console.WriteLine("Valor {0} = {1}", i, aux1);
                 }
                 else
                 {
-                    aux = a;
-                    a = b;
-                    b = aux + a;
-                    Console.WriteLine("Valor {0} = {1}", i, a);
+                    aux3 = aux1;
+                    aux1 = aux2;
+                    aux2 = aux3 + aux1;
+                    Console.WriteLine("Valor {0} = {1}", i, aux1);
                 }
             }
         }
